@@ -1,0 +1,11 @@
+/media/sayak/New Volume/flutter/mark1/build/linux/x64/debug/bundle/mark1
+/media/sayak/New Volume/flutter/mark1/build/linux/x64/debug/bundle/data/icudtl.dat
+/media/sayak/New Volume/flutter/mark1/build/linux/x64/debug/bundle/lib/libflutter_linux_gtk.so
+/media/sayak/New Volume/flutter/mark1/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
+/media/sayak/New Volume/flutter/mark1/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
+/media/sayak/New Volume/flutter/mark1/build/linux/x64/debug/bundle/data/flutter_assets/fonts/MaterialIcons-Regular.otf
+/media/sayak/New Volume/flutter/mark1/build/linux/x64/debug/bundle/data/flutter_assets/kernel_blob.bin
+/media/sayak/New Volume/flutter/mark1/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/media/sayak/New Volume/flutter/mark1/build/linux/x64/debug/bundle/data/flutter_assets/packages/cupertino_icons/assets/CupertinoIcons.ttf
+/media/sayak/New Volume/flutter/mark1/build/linux/x64/debug/bundle/data/flutter_assets/shaders/ink_sparkle.frag
+/media/sayak/New Volume/flutter/mark1/build/linux/x64/debug/bundle/data/flutter_assets/version.json

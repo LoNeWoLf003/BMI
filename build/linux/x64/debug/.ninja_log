@@ -1,0 +1,54 @@
+# ninja log v5
+3530	4036	1673700970064321200	CMakeFiles/mark1.dir/my_application.cc.o	460f6afb303ed1a1
+3299	4882	1673700285170862400	CMakeFiles/mark1.dir/main.cc.o	9c33a44ba7d0fc8b
+4	3526	0	flutter/_phony_	8f2a6570eb324a1b
+4	3526	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_view.h	8f2a6570eb324a1b
+4	3526	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_value.h	8f2a6570eb324a1b
+4	3526	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	8f2a6570eb324a1b
+4	3526	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	8f2a6570eb324a1b
+4	3526	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	8f2a6570eb324a1b
+4	3526	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	8f2a6570eb324a1b
+4036	4235	1673700970266490400	intermediates_do_not_run/mark1	55f94d8c1f39e807
+4	3526	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/libflutter_linux_gtk.so	8f2a6570eb324a1b
+4	3526	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_engine.h	8f2a6570eb324a1b
+4	3526	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	8f2a6570eb324a1b
+4	3526	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	8f2a6570eb324a1b
+4	3526	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	8f2a6570eb324a1b
+4	3526	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	8f2a6570eb324a1b
+4	3526	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	8f2a6570eb324a1b
+4	3526	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	8f2a6570eb324a1b
+4	3526	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	8f2a6570eb324a1b
+4	3526	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	8f2a6570eb324a1b
+4	3526	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	8f2a6570eb324a1b
+4236	4686	0	CMakeFiles/install.util	2979cb270af62463
+4	3526	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	8f2a6570eb324a1b
+3530	4015	1673700970043368300	CMakeFiles/mark1.dir/flutter/generated_plugin_registrant.cc.o	91a266128ad1e5c2
+4	3526	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	8f2a6570eb324a1b
+4	3526	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	8f2a6570eb324a1b
+4	3526	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	8f2a6570eb324a1b
+3	3352	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/libflutter_linux_gtk.so	8f2a6570eb324a1b
+3	3352	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_basic_message_channel.h	8f2a6570eb324a1b
+3	3352	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_binary_codec.h	8f2a6570eb324a1b
+3	3352	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_binary_messenger.h	8f2a6570eb324a1b
+3	3352	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_dart_project.h	8f2a6570eb324a1b
+3	3352	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_engine.h	8f2a6570eb324a1b
+3	3352	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_json_message_codec.h	8f2a6570eb324a1b
+3	3352	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_json_method_codec.h	8f2a6570eb324a1b
+3	3352	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_message_codec.h	8f2a6570eb324a1b
+3	3352	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_method_call.h	8f2a6570eb324a1b
+3	3352	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_method_channel.h	8f2a6570eb324a1b
+3	3352	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_method_codec.h	8f2a6570eb324a1b
+3	3352	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_method_response.h	8f2a6570eb324a1b
+3	3352	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_plugin_registrar.h	8f2a6570eb324a1b
+3	3352	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_plugin_registry.h	8f2a6570eb324a1b
+3	3352	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_standard_message_codec.h	8f2a6570eb324a1b
+3	3352	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_standard_method_codec.h	8f2a6570eb324a1b
+3	3352	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_string_codec.h	8f2a6570eb324a1b
+3	3352	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_value.h	8f2a6570eb324a1b
+3	3352	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/fl_view.h	8f2a6570eb324a1b
+3	3352	0	/media/sayak/New Volume/flutter/mark1/linux/flutter/ephemeral/flutter_linux/flutter_linux.h	8f2a6570eb324a1b
+3	3352	0	flutter/_phony_	8f2a6570eb324a1b
+3354	3785	1673701038780537000	CMakeFiles/mark1.dir/flutter/generated_plugin_registrant.cc.o	91a266128ad1e5c2
+3354	3829	1673701038828599400	CMakeFiles/mark1.dir/my_application.cc.o	460f6afb303ed1a1
+3830	4027	1673701039028944000	intermediates_do_not_run/mark1	55f94d8c1f39e807
+4027	4396	0	CMakeFiles/install.util	2979cb270af62463
